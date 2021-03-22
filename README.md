@@ -1,11 +1,8 @@
 # Git and GitHub set-up Guide
 ## Initial set-up
 Skip these steps if you have already installed Git and created a GitHub account.
-### 1) Install Git
-To install Git, [click here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and follow the steps for your operating system.
-
-### 2) Create a GitHub account
-Create a GitHub account by [clicking here](https://github.com/), then click "Sign Up". Follow the steps to register for an account.
+1. **Install Git:** [Click here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and follow the steps for your operating system.
+2. **Create a GitHub account:** [Click here](https://github.com/), then click "Sign Up". Follow the steps to register for an account.
 
 ## Making a connection with Git and GitHub
 ### 1) Generating a SSH key
@@ -22,7 +19,7 @@ On Git Bash (Windows)/Terminal (Linux or Mac), do the following:
 
 ### 3) Linking with GitHub
 On GitHub, do the following:
-* Go on **Settings** by clicking your profile picture (upper right corner)
+* Go on **Settings**, accessed by clicking your profile picture (upper right corner)
 * Go on **SSH and GPG keys**
 * Click **New SSH key**
 * Enter the key name of your choice and paste the key
